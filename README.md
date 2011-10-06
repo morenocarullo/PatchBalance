@@ -5,4 +5,4 @@ Substantially it calculates how many lines are added or deleted.
 
 How to use?
 ====================
-To use it
+To use it simply drag a .patch file into the program's window.
